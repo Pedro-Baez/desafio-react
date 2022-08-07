@@ -1,6 +1,6 @@
 import React from 'react';
 export default function Index(){
 return (
-<h1>Hola mundo!</h1>
+<h1>Hola mundo,otra vez!</h1>
 )
 }
